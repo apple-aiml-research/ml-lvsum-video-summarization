@@ -208,10 +208,6 @@ This software includes third-party dependencies. See [ACKNOWLEDGEMENTS.md](ACKNO
 
 Data: [CC-BY-NC-ND](LICENSE_DATA) [Deed](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before getting started.
-
 ## Acknowledgments
 
 This work builds upon the capabilities of state-of-the-art multimodal models including Claude (Anthropic), Gemini (Google), and Qwen-VL.
